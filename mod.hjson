@@ -1,9 +1,9 @@
 displayName: "NTMind"
-name: "mind-tech"
+name: "ntmind"
 author: "Aaron"
-main: "mindtech.MindTech"
+main: "ntmind.NTMind"
 description: "Мод добавляющий много нового контента."
-version: 1.3
+version: 1.4
 minGameVersion: 158
-repo: mortzavoy57/MindTech
+repo: mortzavoy57/NTMind
 java: true
